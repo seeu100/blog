@@ -1,0 +1,6 @@
+baseURL = 'https://blog.00002000.xyz/'
+languageCode = 'zh-cn'
+title = '个人博客'
+theme = 'ananke'
+author = 'erwa'
+description = '记录技术学习和生活感悟的个人博客'
